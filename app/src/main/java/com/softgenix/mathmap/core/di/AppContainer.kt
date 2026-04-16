@@ -15,7 +15,7 @@ class AppContainer (context: Context) {
             .build()
     }
 
-    private val mathMapRetrofit = createRetrofit(baseUrl = "http://192.168.1.179:3000/api/v1/")
+    private val mathMapRetrofit = createRetrofit(baseUrl = "http://10.0.2.2:3000/api/v1/")
 
     val mathMapApi : MathMapAPi by lazy {
         mathMapRetrofit.create(MathMapAPi::class.java)

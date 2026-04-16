@@ -9,8 +9,8 @@
         <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/../../Programación Móvil/MathMap" />
-            <option value="$PROJECT_DIR$/../../Programación Móvil/MathMap/app" />
+            <option value="$PROJECT_DIR$/../../Programación Móvil/math-map" />
+            <option value="$PROJECT_DIR$/../../Programación Móvil/math-map/app" />
           </set>
         </option>
       </GradleProjectSettings>
